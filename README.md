@@ -8,26 +8,23 @@ I am currently looking for a **final-year internship (PFE)** in Tunisia or inter
 
 ---
 
-## 🚀 What I build
+## 🚀 What I Build
 
 - 🌐 Web and software applications
 - ☕ Java and Spring Boot backend projects
 - 🐍 Python automation and AI assistants
 - 🤖 Conversational AI agents
 - 📊 Dashboards and data-driven interfaces
+- ⚙️ Full-stack web solutions
 
 ---
 
 ## 🏆 Highlights
 
-- 🥈 **2nd place** — GenAI “Coding with Generative AI” Hackathon, Club IEEE Centrale IT, April 2025  
-  Built a conversational assistant that provides diagnostic guidance for car problems.
-
-- 🏅 **4th place** — 2nd Edition of the GenAI Hackathon, April 2026  
-  Built a conversational assistant for questions and general orientation about Tunisian law.
-
-- 💼 **STEG Software Development Internship**, August–September 2025  
-  Contributed to a multi-role internship-management platform for administrators, supervisors, and interns.
+- 🥈 **2nd place** — GenAI “Coding with Generative AI” Hackathon, Club IEEE Centrale IT, April 2025
+- 🏅 **4th place** — 2nd Edition of the GenAI Hackathon, April 2026
+- 💼 **STEG Software Development Internship**, August–September 2025
+- 🎓 Third-year Licence student in Software Engineering and Information Systems
 
 ---
 
@@ -35,36 +32,62 @@ I am currently looking for a **final-year internship (PFE)** in Tunisia or inter
 
 | Category | Tools |
 |---|---|
-| 💻 Languages | Python, C, C++, Java, HTML, CSS, JavaScript, PHP, SQL |
-| ⚙️ Frameworks & Libraries | Spring Boot, Chart.js |
-| 🧰 Tools | Git, GitHub, VS Code, n8n |
-| 🧠 Focus | AI, Automation, Web Development, Software Testing |
+| 💻 Languages | Python, Java, C, C++, JavaScript, TypeScript, PHP, SQL, HTML5, CSS3 |
+| ⚙️ Frameworks & Libraries | Spring Boot, React, Vite, Chart.js |
+| 🧰 Tools | Node.js, Git, GitHub, VS Code, n8n |
+| 🧠 Focus | Artificial Intelligence, Automation, Web Development, Backend Development, Software Testing |
 
 ---
 
-## 📌 Featured Projects
+## 🏆 Featured Projects
 
-### 🏢 [STEG Internship Management Platform](https://github.com/khalil-dev916/Steg-Internship-Platform-Official-)
+### 🔗 [🏢 STEG Internship Management Platform](https://github.com/khalil-dev916/Steg-Internship-Platform-Official-)
 
-A web platform for managing internship applications and student follow-up, with separate interfaces for administrators, supervisors, and interns.
+Internship project developed during my STEG internship from August to September 2025.
 
-The platform includes dashboards, filtering, pagination, responsive interfaces, and data visualization.
+- Developed with a team of three students
+- Provides separate interfaces for administrators, supervisors, and interns
+- Includes dashboards for internship management and student follow-up
+- Includes filtering, pagination, responsive pages, and data visualization
+- Manages internship-related information using a database
 
-### 🚗 Automotive AI Assistant
+**Tech:** `PHP` `SQL` `HTML5` `CSS3` `JavaScript` `Chart.js`
 
-A conversational assistant that provides possible solutions and diagnostic guidance when users describe a car problem.
+---
+
+### 🚗 Automotive AI Diagnostic Assistant
+
+GenAI hackathon project that earned **2nd place** at the “Coding with Generative AI” Hackathon organised by Club IEEE Centrale IT.
+
+- Developed a web-based conversational assistant for car-related problems
+- Users describe a car symptom or issue
+- The assistant provides possible diagnostic guidance and solutions
+- Developed during a 48-hour hackathon
+
+**Tech:** `React` `Vite` `Node.js` `JavaScript` `HTML5` `CSS3` `Generative AI`
+
+---
 
 ### ⚖️ Tunisian Law AI Assistant
 
-A conversational assistant that answers questions and provides general orientation about Tunisian law.
+GenAI hackathon project developed during the second edition of the “Coding with Generative AI” Hackathon.
+
+- Developed a web-based conversational assistant for Tunisian law questions
+- Provides general legal information and orientation
+- Designed to make legal information easier to understand
+- Project ranked **4th place** in the hackathon
+
+**Tech:** `Java` `Node.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `Generative AI`
 
 ---
 
 ## 🎓 Education
 
-**Licence Nationale en Sciences de l’Informatique**  
-Software Engineering and Information Systems  
-Université Centrale — 2024–Present
+### Licence Nationale en Sciences de l’Informatique
+
+**Software Engineering and Information Systems**  
+Université Centrale, Tunisia  
+**2024 – Present**
 
 ---
 
@@ -82,7 +105,7 @@ I am looking for a **PFE internship** where I can contribute to real software pr
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/khalil-ben-maatoug/)
 - [GitHub](https://github.com/khalil-dev916)
