@@ -83,15 +83,6 @@ Multilingual legal-information assistant developed for the **second edition of t
 
 ---
 
-## 🎓 Education
-
-**Licence Nationale en Sciences de l’Informatique**  
-Specialization: **Software Engineering and Information Systems**  
-🏫 Université Centrale, Tunisia  
-📅 2024 – Present
-
----
-
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/khalil-ben-maatoug/)
