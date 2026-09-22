@@ -19,15 +19,6 @@ I am currently looking for a **final-year internship (PFE)** in Tunisia or inter
 
 ---
 
-## 🏆 Highlights
-
-- 🥈 **2nd place** — GenAI “Coding with Generative AI” Hackathon, Club IEEE Centrale IT, April 2025
-- 🏅 **4th place** — 2nd Edition of the GenAI Hackathon, April 2026
-- 💼 **STEG Software Development Internship**, August–September 2025
-- 🎓 Third-year Licence student in Software Engineering and Information Systems
-
----
-
 ## 💼 Tech Stack
 
 | Category | Tools |
@@ -46,12 +37,17 @@ I am currently looking for a **final-year internship (PFE)** in Tunisia or inter
 Internship project developed during my STEG internship from August to September 2025.
 
 - Developed with a team of three students
-- Provides separate interfaces for administrators, supervisors, and interns
-- Includes dashboards for internship management and student follow-up
-- Includes filtering, pagination, responsive pages, and data visualization
+- Provides interfaces for administrators, supervisors, and interns
+- Includes dashboards, filtering, pagination, and responsive pages
 - Manages internship-related information using a database
 
-**Tech:** `PHP` `SQL` `HTML5` `CSS3` `JavaScript` `Chart.js`
+**Tech:**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white)
 
 ---
 
@@ -64,7 +60,14 @@ GenAI hackathon project that earned **2nd place** at the “Coding with Generati
 - The assistant provides possible diagnostic guidance and solutions
 - Developed during a 48-hour hackathon
 
-**Tech:** `React` `Vite` `Node.js` `JavaScript` `HTML5` `CSS3` `Generative AI`
+**Tech:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8E75B2?style=flat&logo=openai&logoColor=white)
 
 ---
 
@@ -77,7 +80,24 @@ GenAI hackathon project developed during the second edition of the “Coding wit
 - Designed to make legal information easier to understand
 - Project ranked **4th place** in the hackathon
 
-**Tech:** `Java` `Node.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `Generative AI`
+**Tech:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8E75B2?style=flat&logo=openai&logoColor=white)
+
+---
+
+## 🧠 Hackathon Highlights
+
+- 🥈 **April 2025 — 2nd place**  
+  Automotive AI diagnostic assistant at the GenAI “Coding with Generative AI” Hackathon organised by Club IEEE Centrale IT.
+
+- 🏅 **April 2026 — 4th place**  
+  Tunisian Law AI Assistant at the second edition of the GenAI “Coding with Generative AI” Hackathon.
 
 ---
 
@@ -88,20 +108,6 @@ GenAI hackathon project developed during the second edition of the “Coding wit
 **Software Engineering and Information Systems**  
 Université Centrale, Tunisia  
 **2024 – Present**
-
----
-
-## 📚 Additional Training
-
-- 🧪 Software Testing — Centrale IT, June 2026
-- 🤖 Prompt Engineering and Digital Skills — Centrale IT, April 2026
-- 🌐 Web Certification: HTML, CSS and JavaScript — Le Wagon, May 2025
-
----
-
-## 🎯 Current Goal
-
-I am looking for a **PFE internship** where I can contribute to real software projects, improve my engineering skills, and work with a professional development team.
 
 ---
 
