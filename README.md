@@ -99,15 +99,6 @@ GenAI hackathon project developed during the second edition of the “Coding wit
 - 🏅 **April 2026 — 4th place**  
   Tunisian Law AI Assistant at the second edition of the GenAI “Coding with Generative AI” Hackathon.
 
----
-
-## 🎓 Education
-
-### Licence Nationale en Sciences de l’Informatique
-
-**Software Engineering and Information Systems**  
-Université Centrale, Tunisia  
-**2024 – Present**
 
 ---
 
