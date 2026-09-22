@@ -85,5 +85,6 @@ Multilingual legal-information assistant developed for the **second edition of t
 
 ## 📫 Connect With Me
 
+- 📧 [khalilbenmaatoug@gmail.com](mailto:khalilbenmaatoug@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/khalil-ben-maatoug/)
-- 💻 [GitHub](https://github.com/khalil-dev916)
+- 🌐 [Portfolio](https://khalil-dev916.github.io/portfolio/)
