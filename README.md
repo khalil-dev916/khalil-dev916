@@ -78,14 +78,13 @@ Multilingual legal-information assistant developed for the **second edition of t
 
 ### 🦄 [Licorne — Full-Stack MERN E-commerce Shop](https://github.com/khalil-dev916/Licorne)
 
-Full-stack e-commerce application built **end-to-end** while following a 147-page university **MERN/React** course, from React fundamentals to **Redux Toolkit**.
+Full-stack e-commerce web application built with **React** and **Redux Toolkit** on the frontend, **Node.js** and **Express** on the backend, backed by **MongoDB Atlas**.
 
 - Built a responsive product catalog and detail pages with **React**, **React Router**, and **React-Bootstrap**
-- Developed a clean **MVC backend** with **Express** and **Mongoose**, connected to a cloud **MongoDB Atlas** database
+- Structured the backend with the **MVC pattern** using **Express** and **Mongoose** models
 - Replaced manual data fetching with **RTK Query** hooks for automatic caching, loading, and error states
 - Handled failure paths with an error middleware returning clean JSON (unknown routes, invalid database IDs)
 - Wrote a database seeder with **bcrypt**-hashed user accounts and a versioned **Postman** test collection
-- Managed the whole build with **Git/GitHub** — 18 labeled commits, one per course chapter
 
 **Tech:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
